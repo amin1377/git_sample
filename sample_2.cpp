@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-	cout << "hello from git\n";
+	cout << "ignore file : hello from git\n";
 	return 0;
 }
