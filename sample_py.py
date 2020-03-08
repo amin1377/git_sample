@@ -16,3 +16,4 @@ for i in range(1000000):
 toc = time.time()
 print(c)
 print(f"for loop take {1000 * (toc - tic)} ms")
+print("ajab")
